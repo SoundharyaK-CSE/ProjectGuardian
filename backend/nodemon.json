@@ -1,0 +1,10 @@
+{
+  "watch": ["*.js", "routes", "controllers", "services", "config", "middleware"],
+  "ext": "js,json",
+  "ignore": [
+    "workspace/**",
+    "uploads/**",
+    "test-clone/**",
+    "node_modules/**"
+  ]
+}
